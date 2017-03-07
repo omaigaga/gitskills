@@ -1,2 +1,2 @@
 add words by bruce in branch dev
-modify words in master
+modify words in branch feature1 and master
