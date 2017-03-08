@@ -1,3 +1,4 @@
 add words by bruce in branch dev
 modify words in branch feature1 and master
 new words in branch dev and push to remote dev
+modify from new localrepo in dev
