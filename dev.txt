@@ -1,3 +1,4 @@
 add words by bruce in branch dev
 modify words in branch feature1 and master
 new words in branch dev and push to remote dev
+change in local but should be conflit with new partner
